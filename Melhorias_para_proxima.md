@@ -62,23 +62,21 @@ Documento de sugestões para a organização da Escola Paranaense de Bioinformá
   - modelo de apresentação,
   - fundo de certificados,
   - certificados de premiação,
-  - peças de divulgação geral para redes sociais e WhatsApp, e
-  - estrutura para divulgação de palestras/minicursos específicos.
+  - peças de divulgação geral para redes sociais e WhatsApp,
+  - estrutura para divulgação de palestras/minicursos específicos e 
+  - Base para QR code de presença e feeedback
 - Ter uma pessoa dedicada à divulgação e às redes sociais na organização.
 - Incluir a programação no material do credenciamento.
 
 
 ## 8. Formulários e Autorizações
 
-- Preparar formulários de presença e de feedback antes do evento, com QR code disponível desde o credenciamento.
-- Solicitar autorização de uso de imagem dos participantes presenciais.
+- Preparar formulários de presença e de feedback antes do evento, com QR code disponível para TI.
+- Solicitar autorização de uso de imagem dos participantes presenciais, para transmissão online e divulgação do evento.
 
 
 ## 9. Organização e Continuidade
 
-- Criar um manual de organização com checklist, contatos, fornecedores e templates, para facilitar a transição entre edições.
 - Manter registro das lições aprendidas e dos documentos de cada edição em pasta compartilhada (GitHub?).
 
-## TODO
-
-Criar um manual de organização com checklist, contatos, fornecedores e templates, para facilitar a transição entre edições.
+**TODO** Criar um manual de organização com checklist, contatos, fornecedores e templates, para facilitar a transição entre edições.
