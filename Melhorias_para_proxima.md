@@ -27,6 +27,7 @@ Documento de sugestões para a organização da Escola Paranaense de Bioinformá
 - Definir número máximo de trabalhos por apresentador para evitar sobrecarga.
 - Agrupar pôsteres do mesmo apresentador próximos fisicamente e, de preferência, com o mesmo avaliador.
 - Ter um banco continuo e claro de avaliadores (via formulário), com disponibilidades e áreas de atuação. Divulgar entre pós-docs, por exemplo.
+- Incluir nivel esperado do trabalho (TCC, IC, Ms, Doc etc)
 
 
 ## 4. Premiação e Concurso
