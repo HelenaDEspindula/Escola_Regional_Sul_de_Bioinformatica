@@ -1,0 +1,26 @@
+"Data 
+palestra","Horario 
+palestra",Nome completo,Instituição,"Local de
+ origem",Responsável?,Meio de transporte,"Situação
+passagem",Data partida,Data Chegada,Horário saída ,Data Retorno,Horario Retorno,Obs,"Nº localizador/
+bilhete","Valor passagem 
+ida + volta (R$)",Hotel ?,"Data
+Check-in","Horario
+Check-in","Data
+Check-out","Horario
+Check-out",Nº de diárias,"Custo total 
+hospedagem (R$)","Passagem + 
+Hospedagem (R$)"
+10/11 [terça],08:30,Marcelo Mendes Brandão,Unicamp,"Campinas, Viracopos",Fabricio,aéreo ,Emitida,,9-nov.-2026,qualquer horario,10-nov.-2026,fim do dia ou de noite,,,,não,,,,,0,"R$ 0,00","R$ 0,00"
+10/11 [terça],10:00,Marcio Dorn,UFRG,Porto Alegre-RS,Fabricio,aéreo ,Emitida,,9-nov.-2026,após ou proximo as 18:00,12-nov.-2026,18:00,,,,,,,,,0,"R$ 0,00",
+10/11 [terça],14:00,Adriana Bastos Carvalho,UFRJ,Rio de Janeiro,Fabio,aéreo ,Emitida,,10-nov.-2026,09:40,10-nov.-2026,17:00,"RJ - Aeroporto do Galeão
+IDA: Azul voo 4993 - Direto - GIG => CWB
+VOLTA: Azul voo 4023 - Direto - CWB => GIG",,,,,,,,0,"R$ 0,00",
+10/11 [terça],14:00,Carolina Silva de Carvalho,,Belo Horizonte,Fabio,aéreo ,Emitida,,9-nov.-2026,21:55,10-nov.-2026,19:20,"IDA: Azul - Voo 4061 - Direto - CNF => CWB
+VOLTA: Azul Voo 2951 - Direto - CWB => CNF",,,,,,,,0,"R$ 0,00",
+11/11 [quarta],14:00,Augusto Schrank,UFRGS,Porto Alegre-RS,Marcio,aéreo ,Solicitada Argo,,NA,NA,12-nov.-2026,21:35,Apenas volta. LATAM 3133,,,,,,,,0,"R$ 0,00",
+12/11 [quinta],10:00,Glauber Wagner,UFSC,Florianópolis (Terminal Rodoviário) ,Fabricio,Rodoviário,Emitida,,11-nov.-2026,23h58,12-nov.-2026,16h30,"devido a cirurgia que realizei este ano na região do Cóccix, que seja providenciado assento cama pois não posso ficar sentado por longo período.",,,não,,,,,0,"R$ 0,00",
+12/11 [quinta],11:00,Matheus Henrique Pimenta Zanon,ESALQ-USP,Piracicaba-SP,Fabricio,Rodoviário,Emitida,11-nov.-2026,12-nov.-2026,19h,12-nov.-2026,22h,,,,,,,,,,,
+11/11 [quarta],10:00,Alexandre Rossi Paschoal ,,Londrina,Helisson,Rodoviário,Emitida,9-nov.-2026,10-nov.-2026,noite,11-nov.-2026,noite: 23:15,,,,,,,,,,,
+12/11 [quinta],11:30,João Paulo de Oliveira,UEL,Londrina,Dieval,Rodoviário,Emitida,,11-nov.-2026,qualquer horario,12-nov.-2026,apos as 18:00,,,,,,,,,,,
+,,Fabrício Martins Lopes,,Londrina ,,Rodoviário,Emitida,9-nov.-2026,10-nov.-2026,noite,12-nov.-2026,"a noite, após o evento ",,,,,,,,,,,
