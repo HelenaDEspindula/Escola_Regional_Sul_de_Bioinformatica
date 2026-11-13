@@ -26,7 +26,7 @@ Documento de sugestões para a organização da Escola Paranaense de Bioinformá
 - Utilizar notas numéricas com casas decimais para os avaliadores, evitando empates, e definir critérios de desempate.
 - Definir número máximo de trabalhos por apresentador para evitar sobrecarga.
 - Agrupar pôsteres do mesmo apresentador próximos fisicamente e, de preferência, com o mesmo avaliador.
-- Ter um banco de avaliadores claro (via formulário), com disponibilidades e áreas de atuação.
+- Ter um banco continuo e claro de avaliadores (via formulário), com disponibilidades e áreas de atuação. Divulgar entre pós-docs, por exemplo.
 
 
 ## 4. Premiação e Concurso
